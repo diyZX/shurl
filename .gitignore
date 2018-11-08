@@ -1,0 +1,11 @@
+/_build/
+/deps/
+/doc/
+/.fetch
+erl_crash.dump
+*.ez
+shurl-*.tar
+*.log
+/config/local/*.exs
+.tool-versions
+data

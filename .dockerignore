@@ -1,0 +1,12 @@
+.git
+_build
+.dockerignore
+.gitignore
+README.md
+TASK.md
+Dockerfile
+Makefile
+deps
+config/local/*.exs
+deploy
+data
